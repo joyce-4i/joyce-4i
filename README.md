@@ -25,9 +25,7 @@ const JoyceDaCosta = {
 };
 ```
 # **Skills**
-
 <br>
-
 ### Frameworks 
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 
