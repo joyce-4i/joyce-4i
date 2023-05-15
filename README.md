@@ -7,11 +7,12 @@ const JoyceDaCosta = {
     code: ['Javascript'],
     secondLanguage: 'English',
     askMeAbout: ['Software Test', 'Test', 'Doramas', 'Study','Coffee','Inatel'],
-    message: "Graduanda em Engenharia de Computação e uma pequena aprendiz na área de Qualidade de Software como Quality Assurance Intern na 4intelligence."
+    message: "Graduanda em Engenharia de Computação e uma pequena aprendiz na área de Qualidade de Software como Quality Assurance Intern na 4intelligence.",
     outhers: ['git', 'npm', 'test case', 'bdd', 'gherkin', 'cucumber'],
     technologies: {
         frontEndTest: {
             web: ['Cypress']
+        },
         backEnd: {
             js: ['node.js'],
             api: ['Postman','Cypress']
